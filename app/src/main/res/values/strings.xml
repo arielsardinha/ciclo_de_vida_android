@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ciclo de vida</string>
+    <string name="btn_ir">Proximo</string>
+    <string name="btn_voltar">Voltar</string>
+</resources>
